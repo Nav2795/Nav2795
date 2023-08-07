@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Nav2795
-- 👀 I’m interested in designing
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on managing the project
-- 📫 How to reach me navneetbrar019@gmail.com
+- 👋 Hi, I’m Navneet
+- 👀 I’m interested in designing the project
+- 📫 you can reach me @Nav2795
 
 <!---
 Nav2795/Nav2795 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
